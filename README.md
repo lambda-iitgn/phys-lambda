@@ -1,2 +1,1 @@
-# Physical Implementation of Lamba
-read it 
+# Physical Implementation of the Lambda Calculus
